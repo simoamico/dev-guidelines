@@ -11,20 +11,18 @@ This repository serves as a personal knowledge base to centralize information, a
 - Share consistent standards across projects
 - Support continuous learning and onboarding
 
-
 ## 🧭 Topics Covered
 
 This repo includes resources related to:
 
-- Git strategies and commit conventions  
-- Web development (Frontend & Backend)  
-- Game development with Godot  
-- System design & software architecture  
-- Networking concepts and tools  
+- Git strategies and commit conventions
+- Web development (Frontend & Backend)
+- Game development with Godot
+- System design & software architecture
+- Networking concepts and tools
 - General terminology, notes, and references
 
 > ⚠️ Content is continuously evolving and may be expanded, restructured, or simplified over time.
-
 
 ## 📁 Structure Overview
 
@@ -37,3 +35,4 @@ dev-guidelines/
 ├── web/                  # Frontend/Backend tips & CSS/JS notes
 ├── notes/                # Misc. references & terminology
 └── README.md             # This file
+```
